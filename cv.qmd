@@ -1,15 +1,12 @@
 ---
 author:
-  - name: Sidney Verba
-    url: https://en.wikipedia.org/wiki/Sidney_Verba
-    email: "example@harvard.edu"
-    degrees:
-      - PhD
+  - name: Anika Ibnat 
+    email: "aibnat@cougarnet.uh.edu"
     affiliations:
-      - name: Harvard University
-        department: Department of Government
-    title: "Carl H. Pforzheimer University Professor (Emeritus)"
-date: today
+      - name: University of Houston
+        department: Department of Political Science 
+    title: "Graduate Student & Teaching Assistant"
+date: 10/06/2026
 format:
   cv-typst:
     keep-typ: false
