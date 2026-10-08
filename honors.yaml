@@ -1,75 +1,37 @@
+
 honors:
-  - title: "Helen Dinerman Prize for Lifetime Contribution to Public Opinion Research"
-    organization: "World Association of Public Opinion Research"
-    year: 2004
-    type: "Prize"
+  - title: "Conference Participation Travel Grant"
+    organization: "Department of Political Science, University of Houston"
+    year: 2026
+    type: "Grant"
+    description: "Awarded $800 to support travel and registration for presenting co-authored research at the 2026 American Political Science Association Annual Meeting."
 
-  - title: "Johan Skytte Prize"
-    organization: "University of Uppsala"
-    year: 2002
-    type: "Prize"
-    description: "For distinguished contribution to political science"
-
-  - title: "Warren Miller Prize"
-    organization: "Inter-university Consortium for Political and Social Research (ICPSR)"
-    year: 2001
-    type: "Prize"
-    description: "For Distinguished Contribution to the Social Sciences"
-
-  - title: "Warren Miller Award"
-    organization: "American Political Science Association"
-    year: 2000
-    type: "Award"
-    description: "Career Contribution to the Study of Public Opinion and Elections"
-
-  - title: "Tanner Lecturer"
-    organization: "Oxford University"
-    year: 1999
-    type: "Lecture"
-
-  - title: "James Madison Award"
-    organization: "American Political Science Association"
-    year: 1993
-    type: "Award"
-    frequency: "Triennial"
-    description: "Career Contribution to Political Science"
-
-  - title: "Victoria Schuck Award"
-    organization: "American Political Science Association"
-    year: 2001
-    type: "Prize"
-    description: "Best Book on Women and Politics"
-
-  - title: "Woodrow Wilson Award"
-    organization: "American Political Science Association"
-    year: 1976
-    type: "Prize"
-    description: "Best Book in Political Science"
-
-  - title: "Gladys Kammerer Award"
-    organization: "American Political Science Association"
-    year: 1972
-    type: "Prize"
-    description: "Best Book on American National Policy"
-
-  - title: "Guggenheim Fellowship"
-    organization: "John Simon Guggenheim Memorial Foundation"
-    year: 1980
+  - title: "Presidential Fellowship"
+    organization: "Graduate School, University of Houston"
+    year: 2025
     type: "Fellowship"
+    description: "Merit-based fellowship awarded for Fall 2025–Spring 2027 in recognition of academic excellence during the first two years of the Ph.D. program."
 
-  - title: "Fellow"
-    organization: "Center for Advanced Study in the Behavioral Sciences"
-    year: 1963
-    type: "Fellowship"
+  - title: "Graduate Assistantship with Scholarship"
+    organization: "University of Mississippi"
+    year: 2024
+    type: "Assistantship"
+    description: "Competitive graduate assistantship for Fall 2024–Spring 2025, including scholarship, full tuition waiver, and student health insurance."
 
-  - title: "Fellow"
-    organization: "American Academy of Arts and Sciences"
-    type: "Honor"
+  - title: "Dean's Merit Scholarship"
+    organization: "University of Texas at San Antonio"
+    year: 2022
+    type: "Scholarship"
+    description: "Awarded by the College of Liberal and Fine Arts in recognition of a strong graduate application."
 
-  - title: "Member"
-    organization: "American Philosophical Society"
-    type: "Membership"
+  - title: "Most Diplomatic Delegate Award"
+    organization: "UTSA Model United Nations Society"
+    year: 2022
+    type: "Award"
 
-  - title: "Member"
-    organization: "National Academy of Sciences"
-    type: "Membership"
+  - title: "Merit-Based Stipend"
+    organization: "Jahangirnagar University"
+    year: 2016
+    type: "Scholarship"
+    description: "Awarded annually from 2016 to 2019 based on academic progress and standing."
+

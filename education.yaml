@@ -1,46 +1,44 @@
 education:
-  Princeton University:
-    - degree: Ph.D.
+  University of Houston:
+    - degree: Ph.D. in Political Science
       year:
-        end: 1959
-    - degree: M.A.
+        start: 2025
+  University of Mississippi:
+    - degree: Doctoral Study in Political Science
       year:
-        end: 1957
-  Harvard College:
-    - degree: B.A.
+        start: 2024
+        end: 2025
+  University of Texas at San Antonio:
+    - degree: M.A. in Global Affairs
       year:
-        end: 1953
-        start: 1949
+        start: 2022
+        end: 2024
+  Jahangirnagar University:
+    - degree: M.S.S. in International Relations
+      year:
+        start: 2020
+        end: 2021
+    - degree: B.S.S. in International Relations
+      year:
+        start: 2015
+        end: 2019
 
 appointments:
-  Harvard University:
-  - position: Director of the Harvard University Library emeritus
-    year:
-      start: 1984
-  - position: Associate Dean for Undergraduate Education, Faculty of Arts and Sciences
-    year:
-      end: 1984
-      start: 1981
-  - position: Clarence Dillon Professor of International Affairs
-    year:
-      end: 1984
-      start: 1983
-  University of Chicago:
-  - position: Professor of Political Science
-    year:
-      end: 1972
-      start: 1968
-  - position: Senior Study Director, National Opinion Research Center
-    year:
-      end: 1972
-      start: 1968
-  Stanford University:
-  - position: Professor of Political Science
-    year:
-      end: 1968
-      start: 1964
-  Princeton University:
-  - position: Assistant and Associate Professor of Politics
-    year:
-      end: 1964
-      start: 1960
+  University of Houston:
+    - position: Teaching Assistant, Department of Political Science
+      year:
+        start: 2025
+    - position: Research Assistant, Department of Political Science
+      year:
+        start: 2025
+        end: 2026
+  University of Mississippi:
+    - position: Research Assistant, Department of Political Science
+      year:
+        start: 2025
+        end: 2025
+  University of Texas at San Antonio:
+    - position: Teaching Assistant, Department of Political Science and Geography
+      year:
+        start: 2022
+        end: 2024

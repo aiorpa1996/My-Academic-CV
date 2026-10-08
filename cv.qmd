@@ -11,11 +11,6 @@ format:
   cv-typst:
     keep-typ: false
 csl: "revsort-chicago-author-date.csl"
-bibliography:
-  books: "books.bib"
-  bookchapters: "book_chapters.bib"
-  articles: "journal_articles.bib"
-  workingpapers: "working_papers.bib"
 nocite: '@*'
 ---
 
@@ -23,30 +18,12 @@ nocite: '@*'
 
 {{< cv education >}}
 
-## Books
+## Positions
 
-:::{#refs-books}
-:::
-
-## Peer-Reviewed Articles
-
-:::{#refs-articles}
-:::
-
-## Book Chapters
-
-:::{#refs-bookchapters}
-:::
-
-## Working Papers
-
-:::{#refs-workingpapers}
-:::
+{{< cv positions >}}
 
 ## Honors
 
 {{< cv honors >}}
 
-## Service
 
-{{< cv positions >}}
