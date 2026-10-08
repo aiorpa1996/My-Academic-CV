@@ -10,6 +10,12 @@ date: 10/06/2026
 format:
   cv-typst:
     keep-typ: false
+    
+
+bibliography:
+  - working_papers.bib
+ 
+citeproc: true
 csl: "revsort-chicago-author-date.csl"
 nocite: '@*'
 ---
@@ -27,3 +33,7 @@ nocite: '@*'
 {{< cv honors >}}
 
 
+## Working Papers
+
+::: {#refs-working_papers}
+:::
