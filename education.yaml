@@ -1,18 +1,22 @@
+
 education:
   University of Houston:
-    - degree: Ph.D. in Political Science
+    - degree: Ph.D. in Political Science (In Progress)
       year:
         start: 2025
+
   University of Mississippi:
-    - degree: Doctoral Study in Political Science
+    - degree: Doctoral Study in Political Science (Non-Degree)
       year:
         start: 2024
         end: 2025
+
   University of Texas at San Antonio:
     - degree: M.A. in Global Affairs
       year:
         start: 2022
         end: 2024
+
   Jahangirnagar University:
     - degree: M.S.S. in International Relations
       year:
@@ -28,17 +32,32 @@ appointments:
     - position: Teaching Assistant, Department of Political Science
       year:
         start: 2025
+      description:
+        - Supported undergraduate instruction in U.S. Government and Political Statistics.
+        - Assisted with grading, Canvas course management, student support, and quantitative analysis using R/RStudio.
+
     - position: Research Assistant, Department of Political Science
       year:
         start: 2025
         end: 2026
+      description:
+        - Conducted literature reviews and prepared comparative AI governance datasets.
+        - Cleaned and merged policy-adoption data.
+        - Coded and analyzed 2024 congressional-candidate Twitter data on immigration and negative political messaging.
+
   University of Mississippi:
     - position: Research Assistant, Department of Political Science
       year:
         start: 2025
         end: 2025
+      description:
+        - Assisted in developing graduate-level Comparative Politics course materials focusing on political institutions and political dynamics in Southeast Asia.
+
   University of Texas at San Antonio:
     - position: Teaching Assistant, Department of Political Science and Geography
       year:
         start: 2022
         end: 2024
+      description:
+        - Supported five undergraduate courses through grading, examination proctoring, classroom instruction, and course-material development.
+        - Assisted with Blackboard course management and student support.

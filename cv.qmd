@@ -20,6 +20,10 @@ csl: "revsort-chicago-author-date.csl"
 nocite: '@*'
 ---
 
+## Research Interests
+
+Technology and Governance, Public Policy, and Political Methodology
+
 ## Education
 
 {{< cv education >}}
@@ -33,7 +37,46 @@ nocite: '@*'
 {{< cv honors >}}
 
 
+## Publications
+
+Ibnat, Anika. 2024. "TikTok and the National Security Concern: Data Privacy, Geopolitics, and Strategic Framing." *Beyond Boundaries Journal*.
+
+## Master's Thesis
+
+Ibnat, Anika. 2024. "Media Narratives of Asian Rising Powers: Democracy Promotion & Strategic Influence." M.A. thesis, University of Texas at San Antonio.
+
 ## Working Papers
 
-::: {#refs-working_papers}
-:::
+1. Zhu, Ling, Lydia Tiede, **Anika Ibnat**, and Bonhoon Koo. 2026.
+   "Algorithm Governance: Political Institutions and AI Policies
+   in Democracies." Working paper, University of Houston.
+
+2. Ibnat, Anika. 2026.
+   "The Diffusion of Policies Addressing Technology-Facilitated
+   Violence Against Women and Girls in Europe, 2015–2024."
+   Working paper, University of Houston.
+   
+3. Ibnat, Anika. 2026.
+   "When Democracies Pull the Plug: A Game-Theoretic Model
+   of Internet Shutdowns Under Uncertainty."
+   Working paper, University of Houston.
+
+## Conference Presentations
+
+Zhu, Ling, Lydia Tiede, **Anika Ibnat**, and Bonhoon Koo. 2026.
+"Algorithm Governance: Political Institutions and AI Policies in Democracies."
+Paper presented at the American Political Science Association (APSA)
+Annual Meeting, Boston, MA.
+
+## Research and Technical Skills
+
+**Research Methods:** Quantitative Analysis, Qualitative Interviewing,
+Mixed-Methods Research, Content Analysis, Mathematical Modeling.
+
+**Software and Programming:** R, Stata, RStudio, Quarto, Git,
+GitHub, Microsoft Excel, Microsoft PowerPoint.
+
+## Languages
+
+Bengali (Native); Hindi (Native); Urdu (Fluent Speaking and Listening);
+English (Fluent).
