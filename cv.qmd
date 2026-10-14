@@ -13,7 +13,7 @@ format:
     
 
 bibliography:
-  - working_papers.bib
+  working_papers: working_papers.bib
  
 citeproc: true
 csl: "revsort-chicago-author-date.csl"
@@ -47,7 +47,7 @@ Ibnat, Anika. 2024. "Media Narratives of Asian Rising Powers: Democracy Promotio
 
 ## Working Papers
 
-::: {#refs}
+::: {#refs-working_papers}
 :::
 
 ## Conference Presentations
