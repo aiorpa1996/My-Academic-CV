@@ -47,19 +47,8 @@ Ibnat, Anika. 2024. "Media Narratives of Asian Rising Powers: Democracy Promotio
 
 ## Working Papers
 
-1. Zhu, Ling, Lydia Tiede, **Anika Ibnat**, and Bonhoon Koo. 2026.
-   "Algorithm Governance: Political Institutions and AI Policies
-   in Democracies." Working paper, University of Houston.
-
-2. Ibnat, Anika. 2026.
-   "The Diffusion of Policies Addressing Technology-Facilitated
-   Violence Against Women and Girls in Europe, 2015–2024."
-   Working paper, University of Houston.
-   
-3. Ibnat, Anika. 2026.
-   "When Democracies Pull the Plug: A Game-Theoretic Model
-   of Internet Shutdowns Under Uncertainty."
-   Working paper, University of Houston.
+::: {#refs}
+:::
 
 ## Conference Presentations
 
